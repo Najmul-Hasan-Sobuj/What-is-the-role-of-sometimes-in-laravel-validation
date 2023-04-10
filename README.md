@@ -2,7 +2,7 @@
 
 # What is the role of `sometimes` in laravel validation
 
-```
+```php
   $validator = Validator::make(
         $request->all(),
         [
