@@ -1,6 +1,6 @@
 
 
-# What is the role of sometimes in laravel validation
+# What is the role of `sometimes` in laravel validation
 
 ```
   $validator = Validator::make(
